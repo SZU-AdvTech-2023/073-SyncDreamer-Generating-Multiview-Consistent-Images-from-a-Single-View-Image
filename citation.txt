@@ -1,0 +1,6 @@
+@article{REPO073,
+    author = "Liu, Yuan and Lin, Cheng and Zeng, Zijiao and Long, Xiaoxiao and Liu, Lingjie and Komura, Taku and Wang, Wenping",
+    journal = "arXiv preprint arXiv:2309.03453",
+    title = "{SyncDreamer: Generating Multiview-consistent Images from a Single-view Image}",
+    year = "2023"
+}
